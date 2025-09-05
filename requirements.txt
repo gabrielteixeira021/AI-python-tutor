@@ -1,0 +1,5 @@
+# AI Python Tutor - Essential Dependencies
+# Core requirements for the AI Python programming assistant
+
+streamlit>=1.28.0
+groq>=0.31.0
